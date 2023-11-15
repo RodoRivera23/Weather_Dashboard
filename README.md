@@ -1,4 +1,4 @@
-# Weather_Dashboard
+# Weather Dashboard
 This is an example about how you can use an Third party API.
 
 ## Description
